@@ -1,5 +1,5 @@
 ## Hola a todos 🌸
-Mi nombre es Mayerly Uribe, tengo 17 años y actualmente estoy estudiando Ingeniería en software, junto a un curso de análisis y desarrollo de software.
+Mi nombre es Mayerly Uribe, tengo 18 años y actualmente estoy estudiando Ingeniería en software, junto a un curso de análisis y desarrollo de software.
 Durante mis estudios, he aprendido sobre: Python, HTML, CSS, y JavaScript. Estoy empezando a desarrollar análisis de datos con MySQL.
 
 Una de las cosas que más aspiro es porder seguir desarrollando mis hablidades en el área del software y practicar cada vez más.
