@@ -1,11 +1,4 @@
-## Hola a todos 🌸
-Mi nombre es Mayerly Uribe, tengo 18 años y actualmente estoy estudiando Ingeniería en software, junto a un curso de análisis y desarrollo de software.
-Durante mis estudios, he aprendido sobre: Python, HTML, CSS, y JavaScript. Estoy empezando a desarrollar análisis de datos con MySQL.
-
-Una de las cosas que más aspiro es porder seguir desarrollando mis hablidades en el área del software y practicar cada vez más.
-
-puedes encontrame en instagram como [@ma_yeerlyy](https://www.instagram.com/ma_yeerlyy/ "@ma_yeerlyy")
-
+## Hola a todos, soy maye :3
 [![GitHub Streak](https://streak-stats.demolab.com?user=mayerlyuribe&theme=catppuccin-frappe&hide_border=true&border_radius=28&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <!--
 **mayerlyuribe/mayerlyuribe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
